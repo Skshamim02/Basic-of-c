@@ -1,2 +1,2 @@
-# Basic-of-c
+# Basic-of_Python
 "hello world"
